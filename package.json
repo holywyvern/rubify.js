@@ -1,0 +1,24 @@
+{
+  "name": "rubyfy-js",
+  "version": "1.0.0",
+  "description": "Make your avascript feel a bit more like ruby",
+  "main": "rubyfy.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holywyvern/rubify.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "classes",
+    "functions"
+  ],
+  "author": "Ramiro Rojo <ramiro.rojo.cretta@gmail.com>",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/holywyvern/rubify.js/issues"
+  },
+  "homepage": "https://github.com/holywyvern/rubify.js"
+}
