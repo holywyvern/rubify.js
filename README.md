@@ -2,11 +2,14 @@
 A rubification like system for facilitate class creation in JavaScript
 
 ## What does this do ?
-This simple package adds 4 functions to windows (or are imported as a module in node):
+This simple package adds 4 functions to the window object (or are imported as a module in node):
 
 reader
+
 writer
+
 accessor
+
 extend
 
 If you know ruby, most of this functions will sound similar (just ad attr_ before)
