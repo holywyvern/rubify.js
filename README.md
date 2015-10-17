@@ -52,3 +52,16 @@ accessor(Child.prototype, 'y');
 ```
 
 Just compare how in general terms, this functions do transfer more meaning while at the same time are more compact.
+
+## Installing it
+Just do a:
+
+```
+npm install rubyfy-js 
+```
+
+Or copy this file somewere
+
+## I prefer to use ES6 classes
+Well I still don't, and I love vanilla JavaScript as how it is right now, 
+I know this won't last long enough, but This works, so I won't complain much
